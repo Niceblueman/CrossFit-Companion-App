@@ -26,7 +26,7 @@ You have 2 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 ----->
 
 # **CrossFit Companion  App**
-![logo](https://i.imgur.com/zg49V5K.png)](https://i.ibb.co/m9Lkhyx/Cross-Fit-Companion-App.png)
+![logo](https://i.ibb.co/m9Lkhyx/Cross-Fit-Companion-App.png)
 _Tagline: Your ultimate guide to CrossFit workouts._
 
 
