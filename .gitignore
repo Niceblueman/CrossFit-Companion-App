@@ -12,8 +12,12 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
 pids
-backend/
-*.sql
+src/*
+assets/*
+App.js
+app.json
+package.json
+babel.config.js
 *.pid
 *.seed
 *.pid.lock
